@@ -53,7 +53,7 @@ Franck Abgrall
 ___
 Contributions, issues & feature requests are  welcome!
 
-Feel free to check the issues page.
+Feel free to check the <span style = "color:skyblue">issues page</span>.
 
 ## Show your Support
 ___
