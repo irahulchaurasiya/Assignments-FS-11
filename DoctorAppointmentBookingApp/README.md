@@ -31,7 +31,7 @@ ___
 
 ## Client Interaction
 ___
-> The client, such as a web browser or a mobile app, sends HTTP requests to the server for Docotr and Patient Application operations, including registering Patient, updating Patient Details , Scheduling Appointments etc. (CRUD operations).
+> The client, such as web browser or a mobile app, sends HTTP requests to the server for Docotr and Patient Application operations, including registering Patient, updating Patient Details , Scheduling Appointments etc. (CRUD operations).
 
 ## Controller Layer
 ___
