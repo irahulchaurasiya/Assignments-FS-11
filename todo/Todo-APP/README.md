@@ -18,7 +18,7 @@ ___
 
 ## Model
 ___
-> In the model Package we have given all the entities such as ( todoId , todoName , isTodoDoneStatus) of the todo in an entity class.
+> In the model we have given all the entities such as ( todoId , todoName , isTodoDoneStatus) of the todo in an entity class.
 
 ## Controller
 ___
